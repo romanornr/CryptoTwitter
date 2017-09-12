@@ -1,1 +1,1 @@
-# CryptoTwitter-CollectiveWisdom
+# CryptoTwitter
