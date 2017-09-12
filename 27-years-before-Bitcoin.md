@@ -34,3 +34,5 @@ It uses pubkey cryptography together with hashcash as Proof Of Work to achieve a
 Looking back it is now easier to see how combining all these concepts were combined to invent bitcoin and the blockchain.
 
 Satoshi Nakamoto called his whitepaper "Bitcoin: A Peer-to-Peer Electronic Cash System" and his original whitepaper can be found here: https://bitcoin.org/bitcoin.pdf
+
+Special thanks to @BTCYamakaza for editing
