@@ -9,7 +9,7 @@ However other concepts existed before the invention of Bitcoin. Digital cash hav
 
 ### 1982 e-cash
 In 1982 David Chaum proposed a scheme which uses blind signatures to build untraceable digital cash. 
-Blind signatures simply explained without the details and I quote investopedia (Couldn not explain it simpler myself) “a type of digital signature where the message's content cannot be seen before it is signed” - investopedia 
+Blind signatures simply explained without the details and I quote investopedia (Could not explain it simpler myself) “a type of digital signature where the message's content cannot be seen before it is signed” - investopedia 
 
 A bank would issue for example digital cash by signing a blind and random serial number.  The user could use his digital token signed by the bank as currency. Yes, this was a centralized system which required the trust from the user. However this scheme had some flaws because the bank had to keep track of all used serial numbers. 
 
